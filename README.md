@@ -1,5 +1,13 @@
 # Hi there 👋
 
+```
+const aboutMe = {
+    name: "Alisson Peixer",
+    year: "22",
+    country: "Brazil"
+}
+```
+
 <!--
 **alissonpeixer/alissonpeixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
