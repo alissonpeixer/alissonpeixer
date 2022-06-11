@@ -1,6 +1,6 @@
 # Hi there 👋
 
-```
+```js
 const aboutMe = {
     name: "Alisson Peixer",
     year: "22",
