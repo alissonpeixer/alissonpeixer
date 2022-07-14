@@ -4,7 +4,7 @@
 const aboutMe = {
     name: "Alisson Peixer",
     year: "22",
-    country: "Brazil"
+    country: "Brazil",
     acting: "FullStack developer",
     programmingLanguage: ["HTML", "CSS", "JavaScript"],
     technologies:{
