@@ -12,7 +12,7 @@ const aboutMe = {
             html:["vitejs", "reactjs"],
             css: ["bootstrap", "tailwindcss"]
         },
-        backend:{
+        backEnd:{
             js: ["nodejs", "prisma", "planet scale", "express | koa"]
         }
     },
