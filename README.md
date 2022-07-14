@@ -17,7 +17,7 @@ const aboutMe = {
         }
     },
     more:{
-        tools: ["NPM", "Yarn", "GIT", "VsCode", "Vim", "CLI"],
+        tools: ["NPM", "Yarn", "GIT", "VsCode", "Vim"],
         os: ["Arch Linux", "Windows"],
         
     }
