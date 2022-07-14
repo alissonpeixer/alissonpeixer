@@ -5,22 +5,22 @@ const aboutMe = {
     name: "Alisson Peixer",
     year: "22",
     country: "Brazil"
+    acting: "FullStack developer",
+    programmingLanguage: ["HTML", "CSS", "JavaScript"],
+    technologies:{
+        frontEnd:{
+            html:["vitejs", "reactjs"],
+            css: ["bootstrap", "tailwindcss"]
+        },
+        backend:{
+            js: ["nodejs", "prisma", "planet scale", "express | koa"]
+        }
+    },
+    more:{
+        tools: ["NPM", "Yarn", "GIT", "VsCode", "Vim"],
+        os: ["Arch Linux", "Windows"],
+        
+    }
 }
 ```
 
-## Continuation....
-
-<!--
-**alissonpeixer/alissonpeixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
