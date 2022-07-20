@@ -23,6 +23,7 @@ const aboutMe = {
     }
 }
 ```
+<a class="tooltipped tooltipped-s d-block" aria-label="Change your avatar" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:48291580,&quot;target&quot;:&quot;EDIT_AVATAR&quot;,&quot;user_id&quot;:48291580,&quot;originating_url&quot;:&quot;https://github.com/alissonpeixer&quot;}}" data-hydro-click-hmac="85ca22c31dafea87e952c9c37894023ccc615a67405f439a00e47296f34d219d" href="https://github.com/account"><img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/48291580?v=4"></a>
 
 <br/>
 <p align="center">
