@@ -3,7 +3,7 @@
 <img  src="https://readme-typing-svg.herokuapp.com//?font=Space+Grotesk&size=40&color=00D9C0&vCenter=true&lines=Ol%C3%A1+Mundo!+%F0%9F%8C%8E">
 <br>
 <h2 align="center">⚙️ Stacks ⚙️
-<h6 align="center">Front-End | Back-End
+<h6 align="center">Front-End e Back-End<br><br>
 
 <p align="center">
     <kbd >
@@ -16,6 +16,7 @@
      <img src="https://alissonpeixer.github.io/iconStacks/assents/vitejs-logo.svg" width="77px" height="77px">  
      <img src="https://alissonpeixer.github.io/iconStacks/assents/nodejs-480px.svg" width="77px" height="77px">  
     </kbd>
+  
 </p>
 <br>
 <h2 align="center">🔧 Ferramentas 🔧<br></h2><br>
