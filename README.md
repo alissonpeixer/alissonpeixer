@@ -1,6 +1,4 @@
-
-
-<img  src="https://readme-typing-svg.herokuapp.com//?font=Space+Grotesk&size=40&color=00D9C0&vCenter=true&lines=Ol%C3%A1+Mundo!+%F0%9F%8C%8E">
+<h1 align="center">✨ <a href="#">Olá Mundo</a> · <a href="#">Hello World</a> ✨</h1>
 <br>
 <h2 align="center">⚙️ Stacks ⚙️
 <h6 align="center">Front-End e Back-End<br><br>
