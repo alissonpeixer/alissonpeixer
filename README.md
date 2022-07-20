@@ -37,15 +37,15 @@
 <hr>
 <h3 align="center">❣️ Entre contato comigo: ⤵️</h2><br>
 <p align="center">
-      <a href="https://www.linkedin.com/in/alissonpeixer/" alt="Linkedin">
+      <a href="https://www.linkedin.com/in/alissonpeixer/" alt="Linkedin" target="_blank">
       <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonpeixer/"/>
       </a>
     ㅤ
-      <a href="mailto:alissonpeixer4@gmail.com" alt="Gmail">
+      <a href="mailto:alissonpeixer4@gmail.com" alt="Gmail" target="_blank">
       <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:alissonpeixer4@gmail.com"/>
       </a>
       ㅤ
-      <a href="https://www.instagram.com/alisson.peixer/" alt="Instagram">
+      <a href="https://www.instagram.com/alisson.peixer/" alt="Instagram" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/alisson.peixer/"/>
       </a>
 </p>
