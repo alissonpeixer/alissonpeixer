@@ -1,21 +1,37 @@
-<h1 >✨ <a href="#">Olá Mundo</a> · <a href="#">Hello World</a> ✨</h1>
-<br>
+🚀 Olá Mundo
+======
 
-<h2>⚙️ Stacks ⚙️</h2>
+###### Bem-vindo ao meu GitHub!
 <p>
-   <kbd >
+😎 Fico feliz em ter você você aqui, assim não repara na bagunça!
+</p>
+💖 Mas tudo que é postado aqui é feito com amor e muita dedicação!
+<br>
+<hr>
+<hr>
+
+###### 🤔 Ai você me pergunta, a Alisson quais são as stack que você tem conhecimento?
+##### 🥸 Ai eu respondo: Aqui abaixo tem uma "lista" das Stack e das ferramentas que tenho conhecimento. Sempre que me atualizar e aprender algo novo, vou estar cologando aqui!
+
+<hr>
+<hr>
+
+#### ☕ Stacks:
+
+<p>
+<kbd >
      <img src="https://alissonpeixer.github.io/iconStacks/assents/html-5-480px.svg" width="55px" height="55px">
      <img src="https://alissonpeixer.github.io/iconStacks/assents/css-3-480px.svg" width="55px" height="55px"> 
      <img src="https://alissonpeixer.github.io/iconStacks/assents/javascript-480px.svg" width="55px" height="55px">  
      <img src="https://alissonpeixer.github.io/iconStacks/assents/react-400px.svg" width="55px" height="55px"> 
      <img src="https://alissonpeixer.github.io/iconStacks/assents/vitejs-logo.svg" width="55px" height="55px">  
      <img src="https://alissonpeixer.github.io/iconStacks/assents/nodejs-480px.svg" width="55px" height="55px">  
-    </kbd>
-  
+</kbd>
 </p>
-<br/>
-<br/>
-<h2>🔧 Ferramentas 🔧</h2>
+<hr>
+
+#### 🔧 Ferramentas:
+
 <p>
     <kbd >
         <span width="100px" height="100px">
@@ -29,12 +45,12 @@
         </span>              
     </kbd>
 </p>
-<br/>
-<br/>
-<br/>
+
+<hr>
+<h3 align="center">🚀 Vivendo sempre em beta!</h2>
 <hr>
 
-<h3 align="center">❣️ Entre contato comigo: ⤵️</h2><br>
+<h3 align="center">❣️ Entre em contato comigo: ⤵️</h2><br>
 <p align="center">
       <a href="https://www.linkedin.com/in/alissonpeixer/"  alt="Linkedin">
       <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonpeixer/"/>
