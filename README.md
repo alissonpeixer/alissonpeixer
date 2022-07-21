@@ -1,33 +1,31 @@
-<h1 align="center">✨ <a href="#">Olá Mundo</a> · <a href="#">Hello World</a> ✨</h1>
+<h1 >✨ <a href="#">Olá Mundo</a> · <a href="#">Hello World</a> ✨</h1>
 <br>
-<h2 align="center">⚙️ Stacks ⚙️
-<h6 align="center">Front-End e Back-End<br><br>
 
-<p align="center">
-    <kbd >
-        <img src="https://alissonpeixer.github.io/iconStacks/assents/html-5-480px.svg" width="77px" height="77px">
-        <img src="https://alissonpeixer.github.io/iconStacks/assents/css-3-480px.svg" width="77px" height="77px"> 
-        <img src="https://alissonpeixer.github.io/iconStacks/assents/javascript-480px.svg" width="77px" height="77px">  
-    </kbd>
-    <kbd >
-     <img src="https://alissonpeixer.github.io/iconStacks/assents/react-400px.svg" width="77px" height="77px"> 
-     <img src="https://alissonpeixer.github.io/iconStacks/assents/vitejs-logo.svg" width="77px" height="77px">  
-     <img src="https://alissonpeixer.github.io/iconStacks/assents/nodejs-480px.svg" width="77px" height="77px">  
+<h2>⚙️ Stacks ⚙️</h2>
+<p>
+   <kbd >
+     <img src="https://alissonpeixer.github.io/iconStacks/assents/html-5-480px.svg" width="55px" height="55px">
+     <img src="https://alissonpeixer.github.io/iconStacks/assents/css-3-480px.svg" width="55px" height="55px"> 
+     <img src="https://alissonpeixer.github.io/iconStacks/assents/javascript-480px.svg" width="55px" height="55px">  
+     <img src="https://alissonpeixer.github.io/iconStacks/assents/react-400px.svg" width="55px" height="55px"> 
+     <img src="https://alissonpeixer.github.io/iconStacks/assents/vitejs-logo.svg" width="55px" height="55px">  
+     <img src="https://alissonpeixer.github.io/iconStacks/assents/nodejs-480px.svg" width="55px" height="55px">  
     </kbd>
   
 </p>
-<br>
-<h2 align="center">🔧 Ferramentas 🔧<br></h2><br>
-<p align="center">
+<br/>
+<br/>
+<h2>🔧 Ferramentas 🔧</h2>
+<p>
     <kbd >
         <span width="100px" height="100px">
-            <img src="https://alissonpeixer.github.io/iconStacks/assents/npm-480px.svg" width="77px" height="77px">
+            <img src="https://alissonpeixer.github.io/iconStacks/assents/npm-480px.svg" width="55px" height="55px">
         </span>
          <span width="100px" height="100px">
-            <img src="https://alissonpeixer.github.io/iconStacks/assents/yarn-logo.svg" width="77px" height="77px">
+            <img src="https://alissonpeixer.github.io/iconStacks/assents/yarn-logo.svg" width="55px" height="55px">
         </span>
         <span width="100px" height="100px">
-             <img src="https://alissonpeixer.github.io/iconStacks/assents/git-480px.svg" width="77px" height="77px"> 
+             <img src="https://alissonpeixer.github.io/iconStacks/assents/git-480px.svg" width="55px" height="55px"> 
         </span>              
     </kbd>
 </p>
