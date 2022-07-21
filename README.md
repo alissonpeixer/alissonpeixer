@@ -10,13 +10,13 @@
 <hr>
 <hr>
 
-###### 🤔 Ai você me pergunta, a Alisson quais são as stack que você tem conhecimento?
-##### 🥸 Ai eu respondo: Aqui abaixo tem uma "lista" das Stack e das ferramentas que tenho conhecimento. Sempre que me atualizar e aprender algo novo, vou estar cologando aqui!
+###### 🤔 Ai você me pergunta, a Alisson quais são as tecnologias que você tem conhecimento?
+##### 🥸 Ai eu respondo: Aqui abaixo tem uma "lista" das tecnologias e das ferramentas que tenho conhecimento. Sempre que me atualizar e aprender algo novo, vou estar cologando aqui!
 
 <hr>
 <hr>
 
-#### ☕ Stacks:
+#### ☕ Tecnologias:
 
 <p>
 <kbd >
