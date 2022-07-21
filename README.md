@@ -65,3 +65,5 @@
       </a>
 </p>
 <hr>
+
+###### “Inteligência é a habilidade de se adaptar às mudanças.” - Stephen Hawking
