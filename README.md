@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alissonpeixer&label=Profile%20views&color=0e75b6&style=flat" alt="alissonpeixer" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <hr>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alissonpeixer&theme=dark" alt="alissonpeixer" /></p>
 
