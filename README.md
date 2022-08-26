@@ -48,7 +48,7 @@
 
 <p align="center">&nbsp;
   <img align="right" height="177" src="https://github-readme-stats.vercel.app/api?username=alissonpeixer&show_icons=true&theme=dark&locale=en" alt="alissonpeixer" />
-  <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpeixer&show_icons=true&theme=dark&locale=en&layout=compact"            alt="alissonpeixer" />
+  <img align="left" height="177" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpeixer&show_icons=true&theme=dark&locale=en&layout=compact"            alt="alissonpeixer" />
 </p>
 
 
