@@ -1,8 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Alisson Peixer</h1>
 <h3 align="center">A passionate fullstack developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alissonpeixer&label=Profile%20views&color=0e75b6&style=flat" alt="alissonpeixer" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <hr>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alissonpeixer&theme=dark" alt="alissonpeixer" /></p>
 
@@ -20,8 +22,10 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">❣️ Connect with me:⤵️</h2><br>
+
+<p align="center">
 <a href="https://dev.to/alissonpeixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alissonpeixer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alissonpeixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alissonpeixer" height="30" width="40" /></a>
 <a href="https://instagram.com/alisson.peixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisson.peixer" height="30" width="40" /></a>
