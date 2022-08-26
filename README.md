@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alisson Peixer</h1>
 <h3 align="center">A passionate fullstack developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alissonpeixer&label=Profile%20views&color=0e75b6&style=flat" alt="alissonpeixer" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alissonpeixer&label=Profile%20views&color=0e75b6&style=flat" alt="alissonpeixer" /> </p>
 
 <hr>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alissonpeixer&theme=dark" alt="alissonpeixer" /></p>
