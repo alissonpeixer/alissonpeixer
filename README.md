@@ -43,23 +43,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>   </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alissonpeixer" alt="alissonpeixer" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alissonpeixer&theme=onedark" alt="alissonpeixer" /></a> </p>
 <hr>
 
 <p align="center">&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=alissonpeixer&show_icons=true&locale=en" alt="alissonpeixer" />
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpeixer&show_icons=true&theme=dark&locale=en&layout=compact"            alt="alissonpeixer" />
+  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api?username=alissonpeixer&show_icons=true&theme=dark&locale=en" alt="alissonpeixer" />
+  <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpeixer&show_icons=true&theme=dark&locale=en&layout=compact"            alt="alissonpeixer" />
 </p>
 
 
 
 
 
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
 
 <br><br><br>
 <h3 align="center">❣️ Connect with me:⤵️</h2><br>
@@ -69,3 +65,7 @@
 <a href="https://linkedin.com/in/alissonpeixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alissonpeixer" height="30" width="40" /></a>
 <a href="https://instagram.com/alisson.peixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisson.peixer" height="30" width="40" /></a>
 </p>
+
+
+
+
