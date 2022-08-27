@@ -1,4 +1,4 @@
-![MasterHead](https://media.discordapp.net/attachments/902734948270759937/1013090078677024848/Banner.png)
+
 <h3 align="center">Hi 👋, I'm Alisson Peixer, a passionate fullstack developer from Brasil</h3>
 <br>
 <hr>
