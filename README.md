@@ -113,9 +113,9 @@
 </table>
 
 <hr>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alissonpeixer&theme=dark" alt="alissonpeixer" /></p>
+<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alissonpeixer&theme=dark" alt="alissonpeixer" height="150"/></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alissonpeixer&theme=onedark" alt="alissonpeixer" /></a> </p>
+<p align="center"> <a height="130" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alissonpeixer&theme=onedark" alt="alissonpeixer" /></a> </p>
 
 <p align="center">&nbsp;
   <img align="right" height="155" src="https://github-readme-stats.vercel.app/api?username=alissonpeixer&show_icons=true&theme=dark&locale=en" alt="alissonpeixer" />
