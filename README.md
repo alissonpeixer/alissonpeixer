@@ -1,17 +1,24 @@
-![MasterHead](https://media.discordapp.net/attachments/902734948270759937/1013090078677024848/Banner.png)
-<h3 align="center">Hi 👋, I'm Alisson Peixer, a passionate fullstack developer from Brasil</h3>
-<br>
-<hr>
-<table align="center">
-  <tr>
-    <td>
-      Languages and Tools:
-    </td>
-  </tr>
-</table>
+# Hello World! <img src="https://github.com/alissonpeixer/alissonpeixer/hi.gif" width="35px" />
 
+Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some questions!
 
-<table align="center">
+#### 👨‍💼 About me:
+- 👨‍💻 I have 2 years in web development
+- 📖 Learning front end e back end
+- 💰 Currently not working in the development area (but I'm looking for an opportunity)
+- 🚀 I love technology
+
+---
+#### 📨 Contact:
+[<img src="https://img.shields.io/badge/website-%234285F4.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://alissonpeixer.github.io)
+[<img src="https://img.shields.io/badge/alizof%236011-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/)
+[<img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/alissonpeixer)
+[<img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alissonpeixer4@gmail.com)
+
+---
+
+#### ⚙️ Tech Stack:
+<table>
 <tr>
     <td>
       <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
@@ -61,8 +68,8 @@
 </tr>
 </table>
 
-
-<table align="center">
+#### 🛠️ Tools:
+<table >
 <tr>
       <td>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -96,8 +103,7 @@
       </td>
 </tr>  
 </table>
-
-<table align="center">
+<table >
    <tr>
       <td>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -112,27 +118,8 @@
 </tr>
 </table>
 
-<hr>
-<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alissonpeixer&theme=dark" alt="alissonpeixer" height="150"/></p>
-
-
-<p align="center">&nbsp;
+#### 📈 My Github Stats:
+<div align="center">&nbsp;
   <img align="right" height="155" src="https://github-readme-stats.vercel.app/api?username=alissonpeixer&show_icons=true&theme=dark&locale=en" alt="alissonpeixer" />
   <img align="left" height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpeixer&show_icons=true&theme=dark&locale=en&layout=compact"            alt="alissonpeixer" />
-</p>
-
-<hr>
-<hr>
-<hr>
-<hr>
-
-
-<br><br><br>
-<h3 align="center">❣️ Connect with me:⤵️</h2><br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=alissonpeixer&label=Profile%20views&color=0e75b6&style=flat" alt="alissonpeixer" /> </p>
-
-<p align="center">
-<a href="https://dev.to/alissonpeixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alissonpeixer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alissonpeixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alissonpeixer" height="30" width="40" /></a>
-<a href="https://instagram.com/alisson.peixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisson.peixer" height="30" width="40" /></a>
-</p>
+</div>
