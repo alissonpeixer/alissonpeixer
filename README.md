@@ -4,7 +4,7 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
 
 #### 👨‍💼 About me:
 - 👨‍💻 I have 2 years in web development
-- 📖 Learning front end e back end
+- 📖 Learning frontend and backend
 - 💰 Currently not working in the development area (but I'm looking for an opportunity)
 - 🚀 I love technology
 
