@@ -3,13 +3,16 @@
 Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some questions!
 
 #### 👨‍💼 About me:
+
 - 👨‍💻 I have 2 years in web development
 - 📖 Learning frontend and backend
 - 💰 Currently not working in the development area (but I'm looking for an opportunity)
 - 🚀 I love technology
 
 ---
+
 #### 📨 Contact:
+
 [<img src="https://img.shields.io/badge/website-%234285F4.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://alissonpeixer.github.io)
 [<img src="https://img.shields.io/badge/alizof%236011-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/)
 [<img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/alissonpeixer)
@@ -18,6 +21,7 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
 ---
 
 #### ⚙️ Tech Stack:
+
 <table>
 <tr>
     <td>
@@ -69,18 +73,19 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
 </table>
 
 #### 🛠️ Tools:
+
 <table >
 <tr>
-      <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-      </a> 
-     </td>
-      <td>
+    <td>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+        </a> 
+    </td>
+    <td>
         <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
         </a> 
-      </td> 
+    </td> 
         <td>
         <a href="https://postman.com" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -91,20 +96,18 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
           <img src="https://alissonpeixer.github.io/iconStacks/assents/npm-480px.svg" alt="npm" width="40" height="40"/> 
         </a> 
       </td>
-     <td>
-        <a href="" target="_blank" rel="noreferrer"> 
+</tr>  
+   <tr>
+        <td>
+        <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
           <img src="https://alissonpeixer.github.io/iconStacks/assents/Vimlogo-logo.svg" alt="vim" width="40" height="40"/> 
         </a> 
       </td>
-      <td>
-        <a href="" target="_blank" rel="noreferrer"> 
+         <td>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
           <img src="https://alissonpeixer.github.io/iconStacks/assents/vs-code-logo.svg" alt="vscode" width="40" height="40"/> 
         </a> 
       </td>
-</tr>  
-</table>
-<table >
-   <tr>
       <td>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -116,9 +119,22 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
     </a> 
    </td>
 </tr>
+<tr>
+   <td>
+      <a href="https://pt.wikipedia.org/wiki/Unix" target="_blank" rel="noreferrer"> 
+        <img src="https://alissonpeixer.github.io/iconStacks/assents/tux-linux.svg" alt="photoshop" width="40" height="40"/> 
+      </a> 
+   </td>
+    <td>
+      <a href="https://pt.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="noreferrer"> 
+        <img src="https://alissonpeixer.github.io/iconStacks/assents/windows-logo.svg" alt="photoshop" width="40" height="40"/> 
+      </a> 
+   </td>
+</tr>
 </table>
 
 #### 📈 My Github Stats:
+
 <div align="center">&nbsp;
   <img align="right" height="155" src="https://github-readme-stats.vercel.app/api?username=alissonpeixer&show_icons=true&theme=dark&locale=en" alt="alissonpeixer" />
   <img align="left" height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpeixer&show_icons=true&theme=dark&locale=en&layout=compact"            alt="alissonpeixer" />
