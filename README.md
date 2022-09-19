@@ -19,119 +19,20 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
 [<img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alissonpeixer4@gmail.com)
 
 ---
-
 #### ⚙️ Tech Stack:
+###### Stacks I know or have used 
+![My Skills](https://skillicons.dev/icons?i=js,html,css)
+![My Skills](https://skillicons.dev/icons?i=ts,nodejs,tailwind,materialui)
+![My Skills](https://skillicons.dev/icons?i=express,react,vite,nextjs)<br>
+![My Skills](https://skillicons.dev/icons?i=prisma,sqlite,mongodb)
 
-<table>
-<tr>
-    <td>
-      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://alissonpeixer.github.io/iconStacks/assents/html-5-480px.svg" alt="html5" width="40" height="40"/> 
-      </a> 
-     </td>
-      <td>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-          <img src="https://alissonpeixer.github.io/iconStacks/assents/css-3-480px.svg" alt="css3" width="40" height="40"/> 
-        </a> 
-      </td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-          <img src="https://alissonpeixer.github.io/iconStacks/assents/javascript-480px.svg" alt="javascript" width="40" height="40"/>   
-        </a> 
-      </td>
-        <td>
-        <a href="" target="_blank" rel="noreferrer"> 
-          <img src="https://alissonpeixer.github.io/iconStacks/assents/nodejs-480px.svg" alt="nodeJS" width="40" height="40"/>   
-        </a> 
-      </td>
-</tr>
-  
-<tr>
-    <td>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-      </a>
-     </td>
-      <td>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-        </a> 
-      </td>
-      <td>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-          <img src="https://alissonpeixer.github.io/iconStacks/assents/vitejs-logo.svg"  alt="vitejs" 
-           width="40"                  height="40"/> 
-        </a> 
-      </td>
-        <td>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  alt="express" 
-           width="40"                  height="40"/> 
-        </a> 
-      </td>
-</tr>
-</table>
 
 #### 🛠️ Tools:
+![My Skills](https://skillicons.dev/icons?i=github,git,vscode,vim,heroku,vercel,figma,pr,ps)<br>
+![My Skills](https://skillicons.dev/icons?i=bash,)
+#### 🛠️ System:
+![My Skills](https://skillicons.dev/icons?i=linux,windowns)
 
-<table >
-<tr>
-    <td>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-        </a> 
-    </td>
-    <td>
-        <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-        </a> 
-    </td> 
-        <td>
-        <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-        </a> 
-      </td>
-      <td>
-        <a href="" target="_blank" rel="noreferrer"> 
-          <img src="https://alissonpeixer.github.io/iconStacks/assents/npm-480px.svg" alt="npm" width="40" height="40"/> 
-        </a> 
-      </td>
-</tr>  
-   <tr>
-        <td>
-        <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://alissonpeixer.github.io/iconStacks/assents/Vimlogo-logo.svg" alt="vim" width="40" height="40"/> 
-        </a> 
-      </td>
-         <td>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://alissonpeixer.github.io/iconStacks/assents/vs-code-logo.svg" alt="vscode" width="40" height="40"/> 
-        </a> 
-      </td>
-      <td>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-        </a> 
-     </td>
-     <td>
-           <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-    </a> 
-   </td>
-</tr>
-<tr>
-   <td>
-      <a href="https://pt.wikipedia.org/wiki/Unix" target="_blank" rel="noreferrer"> 
-        <img src="https://alissonpeixer.github.io/iconStacks/assents/tux-linux.svg" alt="photoshop" width="40" height="40"/> 
-      </a> 
-   </td>
-    <td>
-      <a href="https://pt.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="noreferrer"> 
-        <img src="https://alissonpeixer.github.io/iconStacks/assents/windows-logo.svg" alt="photoshop" width="40" height="40"/> 
-      </a> 
-   </td>
-</tr>
-</table>
 
 #### 📈 My Github Stats:
 
