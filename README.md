@@ -31,7 +31,8 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
 ![My Skills](https://skillicons.dev/icons?i=github,git,vscode,vim,heroku,vercel,figma,pr,ps)<br>
 ![My Skills](https://skillicons.dev/icons?i=bash,)
 #### 🛠️ System:
-![My Skills](https://skillicons.dev/icons?i=linux,windowns)
+![My Skills](https://skillicons.dev/icons?i=linux)
+![Frame](https://user-images.githubusercontent.com/48291580/191059386-eebca583-312c-439c-bf3e-797ca089cd7e.svg)
 
 
 #### 📈 My Github Stats:
@@ -39,4 +40,5 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
 <div align="center">&nbsp;
   <img align="right" height="155" src="https://github-readme-stats.vercel.app/api?username=alissonpeixer&show_icons=true&theme=dark&locale=en" alt="alissonpeixer" />
   <img align="left" height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpeixer&show_icons=true&theme=dark&locale=en&layout=compact"            alt="alissonpeixer" />
+
 </div>
