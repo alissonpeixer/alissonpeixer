@@ -22,7 +22,7 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
 #### ⚙️ Tech Stack:
 ###### Stacks I know or have used 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css)
-![My Skills](https://skillicons.dev/icons?i=ts,nodejs,tailwind,materialui)
+![My Skills](https://skillicons.dev/icons?i=ts,nodejs,tailwind,materialui,angular)
 ![My Skills](https://skillicons.dev/icons?i=express,react,vite,nextjs)<br>
 ![My Skills](https://skillicons.dev/icons?i=prisma,sqlite,mongodb)
 
