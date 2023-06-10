@@ -23,11 +23,11 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
 ![My Skills](https://skillicons.dev/icons?i=ts,nodejs,tailwind,materialui,angular)
 ![My Skills](https://skillicons.dev/icons?i=express,react,vite,nextjs,advpl)<br>
 ![My Skills](https://skillicons.dev/icons?i=prisma,sqlite,mongodb)
-
+![My Skills](https://skillicons.dev/icons?i=bash,)
 
 #### 🛠️ Tools:
 ![My Skills](https://skillicons.dev/icons?i=github,git,vscode,vim,heroku,vercel,figma,pr,ps)<br>
-![My Skills](https://skillicons.dev/icons?i=bash,)
+
 #### 🛠️ System:
 ![My Skills](https://skillicons.dev/icons?i=linux)
 ![Frame](https://user-images.githubusercontent.com/48291580/191059386-eebca583-312c-439c-bf3e-797ca089cd7e.svg)
