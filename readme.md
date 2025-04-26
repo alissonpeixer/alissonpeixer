@@ -4,7 +4,7 @@ Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some qu
 
 #### 👨‍💼 About me:
 
-- 👨‍💻 I'm 6 years in development
+- 👨‍💻 I'm 7 years in development
 - 🚀 I love technology
 
 ---
