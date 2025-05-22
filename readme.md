@@ -1,6 +1,6 @@
 # Hello World! <img src="https://github.com/alissonpeixer/alissonpeixer/blob/main/hi.gif" width="35px" />
 
-Hi, I'm Alisson I am a Web developer from Brazil. Contact me if you have some questions!
+Hi, I'm Alisson I am a full stack developer from Brazil. Contact me if you have some questions!
 
 #### 👨‍💼 About me:
 
