@@ -12,7 +12,6 @@ Hi, I'm Alisson I am a full stack developer from Brazil. Contact me if you have 
 #### 📨 Contact:
 
 [<img src="https://img.shields.io/badge/website-%234285F4.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://alissonpeixer.com/)
-[<img src="https://img.shields.io/badge/alizof%236011-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/)
 [<img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/alissonpeixer)
 [<img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alissonpeixer4@gmail.com)
 
