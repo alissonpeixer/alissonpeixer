@@ -6,7 +6,7 @@ Hi, I'm Alisson. I am a full-stack developer from Brazil. Contact me if you have
 
 - 👨‍💻 I have 7 years of development experience.
 - 💼 Specializing in the TOTVS Protheus ecosystem (ADVPL, TLPP), Java, Python, and Angular.
-- 🔭 Currently working on Siscomex to DUIMP API migration and developing a financial management app with Expo.
+- 🔭 Currently working developing a financial management app with Expo.
 - ⚙️ Exploring AI integration (MCP servers), Docker environments, and hardware optimization.
 - 🚀 I love technology, hardware DIY, and PC gaming!
 
