@@ -35,10 +35,7 @@ Hi, I'm Alisson. I am a full-stack developer from Brazil. Contact me if you have
 
 #### 🛠️ System:
 ![My Skills](https://skillicons.dev/icons?i=linux,windows)
-<br>
-*Powered by AMD Ryzen 7 5800X*
-<br>
-![Frame](https://user-images.githubusercontent.com/48291580/191059386-eebca583-312c-439c-bf3e-797ca089cd7e.svg)
+
 
 #### 📈 My Github Stats:
 
