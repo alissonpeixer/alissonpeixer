@@ -37,9 +37,4 @@ Hi, I'm Alisson. I am a full-stack developer from Brazil. Contact me if you have
 ![My Skills](https://skillicons.dev/icons?i=linux,windows)
 
 
-#### 📈 My Github Stats:
 
-<div align="center">&nbsp;
-  <img align="right" height="155" src="https://github-readme-stats.vercel.app/api?username=alissonpeixer&show_icons=true&theme=dark&locale=en" alt="alissonpeixer" />
-  <img align="left" height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpeixer&show_icons=true&theme=dark&locale=en&layout=compact" alt="alissonpeixer" />
-</div>
